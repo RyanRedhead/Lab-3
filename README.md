@@ -6,7 +6,7 @@ To familiarize with the logic analyzer and create an 8x8 block on the LCD screen
 
 #Hardware Schematic
 
-![Alt Text]()
+![Alt Text](https://github.com/RyanRedhead/Lab-3/blob/master/hardware.jpg?raw=true)
 
 #Debugging
 
@@ -16,7 +16,15 @@ Choosing the right pins to read for the logic analyzer was a difficult task, mos
 
 ##Logic Analyzer
 
+![Alt Text](https://github.com/RyanRedhead/Lab-3/blob/master/Image1.jpg?raw=true)
+
+![Alt Text](https://github.com/RyanRedhead/Lab-3/blob/master/Image2.jpg?raw=true)
+
+![Alt Text](https://github.com/RyanRedhead/Lab-3/blob/master/Image3.jpg?raw=true)
+
 ##Required Functionality
+
+![Alt Text](https://github.com/RyanRedhead/Lab-3/blob/master/Required.jpg?raw=true)
 
 #Observations/Conclusions
 
