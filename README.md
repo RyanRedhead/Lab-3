@@ -6,7 +6,9 @@ To familiarize with the logic analyzer and create an 8x8 block on the LCD screen
 
 #Hardware Schematic
 
-![Alt Text]()
+![Alt Text](https://github.com/RyanRedhead/Lab-3/blob/master/hardware.jpg?raw=true)
+
+This is an image of the LCD screen on the MSP430 with the pins needed for the logic analyzer.
 
 #Debugging
 
@@ -16,7 +18,23 @@ Choosing the right pins to read for the logic analyzer was a difficult task, mos
 
 ##Logic Analyzer
 
+![Alt Text](https://github.com/RyanRedhead/Lab-3/blob/master/Image1.jpg?raw=true)
+
+The first image shows a single clock period of my MSP430 chip at 934ns or 1.07 MHz.
+
+![Alt Text](https://github.com/RyanRedhead/Lab-3/blob/master/Image2.jpg?raw=true)
+
+The second image represents the command/data bit followed by the 8 data bits sent to the MSP430.
+
+![Alt Text](https://github.com/RyanRedhead/Lab-3/blob/master/Image3.jpg?raw=true)
+
+In this image, the reset was measured at 1.148 micro seconds.
+
 ##Required Functionality
+
+![Alt Text](https://github.com/RyanRedhead/Lab-3/blob/master/Required.jpg?raw=true)
+
+Here the required functionality is shown on the LCD screen, displaying an 8 by 8 block.
 
 #Observations/Conclusions
 
