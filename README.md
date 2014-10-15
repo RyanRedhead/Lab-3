@@ -18,6 +18,14 @@ Choosing the right pins to read for the logic analyzer was a difficult task, mos
 
 ##Logic Analyzer
 
+Here are two of the completed tables for the logic analyzer portion that look at the command/data bits.
+
+![Alt Text](https://github.com/RyanRedhead/Lab-3/blob/master/Table%202.PNG?raw=true)
+
+![Alt Text](https://github.com/RyanRedhead/Lab-3/blob/master/Table%201.PNG?raw=true)
+
+
+
 ![Alt Text](https://github.com/RyanRedhead/Lab-3/blob/master/Image1.jpg?raw=true)
 
 The first image shows a single clock period of my MSP430 chip at 934ns or 1.07 MHz.
@@ -38,5 +46,15 @@ Here the required functionality is shown on the LCD screen, displaying an 8 by 8
 
 #Observations/Conclusions
 
+This lab was alot of guess and check for me, I'm still not quite sure how most of the original Lab3.asm file works. For A functionality I would've implemented each button to a pin and checked to see if it was pressed or not, if it was pressed it would shift the block over by changing the cursors.
+
+
+
+
+Mega Prelab-Check
+Logic Analyzer-Check
+Required Funct. -Check
+
+Doc: Dr Coulston helped explain the logic analyzer portion and the difference between the command and data commands.
 
 
